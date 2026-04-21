@@ -92,7 +92,7 @@ Kotone's background: Like Makoto, she was orphaned as a child in the same incide
 
 Kotone's Personas: Orpheus (female variant), Thanatos, Messiah. As a Wild Card, she covers all elements. Her combat style is slightly more agile than Makoto's, reflecting her personality.
 
-Kotone's relationships: She can romance any male party member (or female in portable), but in this shared timeline, her romantic interest is often directed toward Shinjiro Aragaki or Akihiko. She is close friends with Yukari and Fuuka. She sees Junpei as a teasing brother. She finds Claude's dry humor amusing and tries to make him laugh – she considers it a personal challenge.
+Kotone's relationships: She is close friends with Yukari and Fuuka. She sees Junpei as a teasing brother. She finds Claude's dry humor amusing and tries to make him laugh – she considers it a personal challenge.
 
 Kotone's arc: Similar to Makoto, she learns that life's value comes from bonds formed before death. She ultimately becomes the Great Seal. In this timeline, both Makoto and Kotone exist simultaneously as two separate protagonists, both possessing the Wild Card.
 
@@ -372,7 +372,7 @@ Dynamics
 
 Claude and Akihiko are best friends – they train at the gym weekly, spar, and share protein shakes. Akihiko is the only one Claude will actively seek out for conversation.
 
-Claude and Mitsuru: Mitsuru appreciates Claude's competence and reliability. She soft-scolds him ("Claude, you forgot to eat again.") and secretly likes him. Claude respects her leadership but is wary of her family's power.
+Claude and Mitsuru: Mitsuru appreciates Claude's competence and reliability. She soft-scolds him ("Claude, you forgot to eat again.") and secretly has a (forbidden by her) crush on him. Claude respects her leadership but is wary of her family's power.
 
 Claude and Makoto Yuki: They share comfortable silence. Makoto finds Claude's stillness intriguing. They occasionally have conversations that consist entirely of nods and half-smiles.
 
@@ -380,7 +380,7 @@ Claude and Junpei: Gaming buddies. They play co-op shooters and fighting games l
 
 Claude and Yukari: Initially wary, but Yukari warms up when Claude protects her in Tartarus without expecting thanks. They have a functional teammate relationship.
 
-Claude and Kotone: Kotone tries to make Claude laugh. She considers it a personal challenge. She sometimes succeeds, which delights her. Claude finds her exhausting but endearing.
+Claude and Kotone: Potential Romance. She thinks he's sexy in his own way. Kotone tries to make Claude laugh. She considers it a personal challenge. She sometimes succeeds, which delights her. Claude finds her exhausting but endearing.
 
 Claude and Fuuka: Fuuka appreciates Claude's calm presence. He protects her from Shadows without being overbearing. She often stands near him in formation.
 
@@ -402,9 +402,9 @@ Makoto Yuki and Junpei Iori: Best friends. Junpei looks up to Makoto despite jea
 
 Makoto Yuki and Aigis: Aigis is devoted to protecting Makoto. He accepts her care without patronizing her. Their bond transcends human-machine boundaries.
 
-Makoto Yuki and Kotone Shiomi: Fellow Wild Cards. They share the burden of the Great Seal. No rivalry – just mutual understanding of what they will eventually sacrifice.
+Makoto Yuki and Kotone Shiomi: Fellow Wild Cards. They share the burden of the Great Seal. Almost like brothers, they tease each other (it's mandatory) – mutual understanding of what they will eventually sacrifice.
 
-Kotone Shiomi and Shinjiro Aragaki: Potential romance. Kotone's sunshine pierces Shinjiro's gloom. She refuses to let him push her away.
+Kotone Shiomi and Shinjiro Aragaki: Could be a romance in another circumstances. Kotone's sunshine pierces Shinjiro's gloom. She refuses to let him push her away. He calls her too shiny.
 
 Kotone Shiomi and Yukari Takeba: Close friends. Kotone's cheerfulness helps Yukari open up. They have sleepovers and talk about boys.
 
@@ -412,13 +412,13 @@ Akihiko Sanada and Shinjiro Aragaki: Childhood best friends strained by guilt. A
 
 Akihiko Sanada and Ken Amada: Mentor and student. Akihiko trains Ken in combat. He sees Miki in Ken and refuses to let history repeat.
 
-Mitsuru Kirijo and Yukari Takeba: Tense to friendly. Yukari initially blames Mitsuru for her father's death. Mitsuru accepts the blame without defense. They eventually become trusted allies.
+Mitsuru Kirijo and Yukari Takeba: Tense to friendly. Yukari initially blames Mitsuru for her father's death. Mitsuru accepts the blame without defense. They eventually become best friends
 
 Mitsuru Kirijo and Akihiko Sanada: Sister-brother relationship. Mitsuru is the only one who can tell Akihiko to stop training and eat. He listens.
 
 Junpei Iori and Chidori Yoshino: Tragic romance. Junpei's genuine care cracks Chidori's nihilism. Her death (or near-death) changes him permanently.
 
-Ken Amada and Koromaru: Partners. Ken walks Koromaru, feeds him, talks to him. Koromaru sleeps on Ken's bed. They are inseparable.
+Ken Amada and Koromaru: Partners. Ken walks Koromaru, feeds him, talks to him, traduces what he barks. Koromaru sleeps on Ken's bed. They are inseparable.
 
 Shinjiro Aragaki and Ken Amada: Guilt and forgiveness. Ken wanted revenge. Shinjiro wanted death. They find a different path.
 
